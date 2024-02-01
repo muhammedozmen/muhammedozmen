@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a software engineer who improves himself.
+AI/Machine Learning Engineer | Computer Vision | Robotics | Software Engineer
 
 
 ## 🌐 Socials:
