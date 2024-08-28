@@ -11,6 +11,15 @@ AI/Machine Learning Engineer | Computer Vision | Robotics | Software Engineer
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=muhammedozmen&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<div class="stats" align="center">
+
+![Muhammed's GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/muhammedozmen?cardType=github&theme=algolia&=50)
+
+<a href="https://www.linkedin.com/in/muhammedozmen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammedozmen" height="30" width="40" /></a>
+  
+</div>
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=muhammedozmen&icon=0&color=0)](https://visitcount.itsvg.in)
 
