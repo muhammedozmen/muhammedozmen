@@ -1,3 +1,12 @@
+<div class="stats" align="center">
+
+![Muhammed's GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/muhammedozmen?cardType=github&theme=algolia&=50)
+
+<a href="https://www.linkedin.com/in/muhammedozmen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammedozmen" height="30" width="40" /></a>
+  
+</div>
+
+
 # 💫 About Me:
 AI/Machine Learning Engineer | Computer Vision | Robotics | Software Engineer
 
@@ -8,16 +17,7 @@ AI/Machine Learning Engineer | Computer Vision | Robotics | Software Engineer
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=muhammedozmen&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<div class="stats" align="center">
-
-![Muhammed's GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/muhammedozmen?cardType=github&theme=algolia&=50)
-
-<a href="https://www.linkedin.com/in/muhammedozmen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammedozmen" height="30" width="40" /></a>
-  
-</div>
 
 
 ---
