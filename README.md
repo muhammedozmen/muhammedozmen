@@ -34,7 +34,7 @@ Founder of [**Cinemanya**](https://www.cinemanya.com) – a movie and TV series 
 ![Jenkins](https://img.shields.io/badge/jenkins-2C5263?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ### Computer Vision & Game Dev  
-![OpenCV](https://img.shields.io/badge/opencv-white?style=for-the-badge&logo=opencv&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-20232a?style=for-the-badge&logo=unity&logoColor=white)
 
 ---
