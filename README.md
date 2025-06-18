@@ -3,16 +3,6 @@
 <!-- GitHub Stats -->
 <img src="https://awesome-github-stats.azurewebsites.net/user-stats/muhammedozmen?cardType=github&theme=algolia" alt="GitHub Stats" />
 
-<!-- Social Links -->
-<p align="center" style="margin-top: 10px;">
-  <a href="https://www.linkedin.com/in/muhammedozmen/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" style="margin-right: 10px;" />
-  </a>
-  <a href="https://www.cinemanya.com" target="_blank">
-    <img src="https://www.cinemanya.com/favicon.ico" alt="Cinemanya" height="30" />
-  </a>
-</p>
-
 </div>
 
 ---
@@ -46,3 +36,10 @@ Founder of [**Cinemanya**](https://www.cinemanya.com) – a movie and TV series 
 ### Computer Vision & Game Dev  
 ![OpenCV](https://img.shields.io/badge/opencv-white?style=for-the-badge&logo=opencv&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-20232a?style=for-the-badge&logo=unity&logoColor=white)
+
+---
+
+## 🌐 Find Me Online:
+
+- [LinkedIn](https://www.linkedin.com/in/muhammedozmen/)
+- [Cinemanya](https://www.cinemanya.com)
