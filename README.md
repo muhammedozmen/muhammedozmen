@@ -1,12 +1,17 @@
----
+<div align="center">
 
-<div align="center" class="stats">
+<!-- GitHub Stats -->
+<img src="https://awesome-github-stats.azurewebsites.net/user-stats/muhammedozmen?cardType=github&theme=algolia" />
 
-![Muhammed's GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/muhammedozmen?cardType=github&theme=algolia)
-
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/muhammedozmen/)
+<!-- Social Links -->
+<br/>
+<a href="https://www.linkedin.com/in/muhammedozmen/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" />
+</a>
 &nbsp;&nbsp;
-[![Cinemanya](https://www.cinemanya.com/favicon.ico)](https://www.cinemanya.com)
+<a href="https://www.cinemanya.com" target="_blank">
+  <img src="https://www.cinemanya.com/favicon.ico" alt="Cinemanya" height="30" />
+</a>
 
 </div>
 
@@ -45,4 +50,3 @@ Founder of [**Cinemanya**](https://www.cinemanya.com) – a movie and TV series 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=muhammedozmen&icon=0&color=0)](https://visitcount.itsvg.in)
-
