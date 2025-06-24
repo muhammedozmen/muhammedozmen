@@ -9,7 +9,8 @@
 
 ## 👨‍💻 About Me:
 **Software Engineer** | **Full Stack Developer**  
-Passionate about **Computer Vision**, **AI**, and building real-world solutions.  
+Passionate about **Computer Vision**, **AI**, and building real-world solutions.
+
 Founder of [**Cinemanya**](https://www.cinemanya.com) – a movie and TV series tracking platform for cinephiles.
 
 App Store: [**Cinemanya**](https://apps.apple.com/us/app/cinemanya/id6745112611)
